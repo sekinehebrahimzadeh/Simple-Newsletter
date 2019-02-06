@@ -7,7 +7,7 @@ Author: Sekineh Ebrahimzadeh
 Author URI: http://wpbazar.com
 */
 
-/*
+/**
 Use function in theme :
 nlsm_newsletter_form();
 */
