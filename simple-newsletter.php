@@ -1,11 +1,11 @@
 <?php
-/*
+/**
 Plugin Name: Simple newsletter
 Description: Simple and custom newsletter that can use on any website.
 Version: 1.1
 Author: Sekineh Ebrahimzadeh
 Author URI: http://wpbazar.com
-*/
+**/
 
 /***
 Use function in theme :
